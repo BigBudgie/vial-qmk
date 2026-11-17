@@ -1,0 +1,9 @@
+{
+    "keyboard_name": "Swagkeys Eave65 Plus",
+    "rgblight": {
+        "led_count": 20
+    },
+    "ws2812": {
+        "driver": "pwm"
+    }
+}
